@@ -7,7 +7,7 @@ go run main.go
 ```
 
 ### Sample output
- ![](screenshot\screenshot.png)
+ ![](screenshot/screenshot.png)
 
 ### What I have learnt
 - 
